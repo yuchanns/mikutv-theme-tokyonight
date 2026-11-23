@@ -1,0 +1,11 @@
+{
+  "id": "tokyonight",
+  "name": "Tokyo Night",
+  "description": "Deep indigo night palette inspired by Tokyo city lights for MikuTV.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "minAppVersion": "0.1.0",
+  "license": "Apache-2.0",
+  "theme": "theme.json"
+}
